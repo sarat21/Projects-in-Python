@@ -1,0 +1,8 @@
+
+It contains:
+['Results.txt', 'folderA', 'folderB', 'folderC', 'HW5_sarat.py', 'Thumbs.db']
+Enter the name of two folders in the current folder:
+First folder: folderA
+Second Folder: folderB
+folderA and folderB contain these duplicate files:
+B.txt D.txt M.pptx X.docx
