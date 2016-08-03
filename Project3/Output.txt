@@ -1,0 +1,7 @@
+Problem 2:
+Type of data in x_ar:  float64
+Type of data in y_ar:  float64
+Type of data in v_ar:  float64
+For x_ar, Mean =  129.565003539 and Standard Deviation =  103.18231825
+For y_ar, Mean =  271.318 and Standard Deviation =  150.830026297
+For v_ar, Mean =  25.8599784753 and Standard Deviation =  14.9348149299
